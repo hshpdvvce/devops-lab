@@ -1,2 +1,1 @@
-this is the change done in main branch.
-this is just a demo file.
+edited the branch2 text file
